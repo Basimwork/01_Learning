@@ -1,5 +1,5 @@
 # 01_Learning
 This is my first Git repository
 br/
-Auther - Basim
+Author - Basim
 
